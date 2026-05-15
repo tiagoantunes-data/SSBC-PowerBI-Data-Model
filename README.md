@@ -5,6 +5,20 @@ Final project for Udacity's Course 2 - Data Analysis and Visualization with Micr
 
 This project builds a complete data model and Power BI report for **Seven Sages Brewing Company (SSBC)**, enabling the CFO to analyze sales performance and profitability across products and customer segments.
 
+## Report Preview
+
+### Sales and GPM
+![Sales and GPM](images/sales_gpm.png)
+
+### Gross Profit and Unit Sales
+![Gross Profit and Unit Sales](images/gross_profit_unit_sales.png)
+
+### SO1 - Product Type
+![SO1 Product Type](images/so1_product_type.png)
+
+### SO2 - Seasonality
+![SO2 Seasonality](images/so2_seasonality.png)
+
 ## Data Model
 - **Fact Table:** Sales
 - **Dimensions:** Products, Customer List, Date Table, USD-CAD Exchange Rates, CFO CostPrice
